@@ -1,2 +1,1 @@
-# V-card
 # Sunnyside
