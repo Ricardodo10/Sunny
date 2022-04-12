@@ -1,22 +1,15 @@
-/*font*/
-/*Barlow 600*/
+
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@600&display=swap');
 
-/*fraunce 700 900*/
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700;900&display=swap');
 
-
-/*color*/
 
 :root {
     --soft-red: hsl(7, 99%, 70%);
     --yellow: hsl(51, 100%, 49%);
     --Dark-desaturated-cyan: hsl(167, 40%, 24%);
-    /*graphic design text*/
     --dark-blue: hsl(198, 62%, 26%);
-    /*photography text*/
     --dark-moderate-cyan: hsl(168, 34%, 41%);
-    /*footer*/
 
     --very-dark-destaured-blue: hsl(212, 27%, 19%);
     --Very-dark-grayish-blue: hsl(213, 9%, 39%);
@@ -65,7 +58,6 @@ h3{
     font-weight: 900;
 }
 
-/*header*/
 .header {
     background: url(../Sunny/images/photos/image-header.jpg);
     background-size: cover;
@@ -154,8 +146,6 @@ header>nav>ul>li>a:last-of-type:hover{
     height: 100px;
     border: 1px solid #ffff;
 }
-
-/* 1eme section*/
 
 
 .cerise {
@@ -260,6 +250,10 @@ header>nav>ul>li>a:last-of-type:hover{
     align-items: center;
     flex-basis: 100%;
 }
+.third{
+    display: flex;
+    flex-basis: 100%;
+}
 
 
 
@@ -271,9 +265,6 @@ header>nav>ul>li>a:last-of-type:hover{
 
 
 
-
-
-/*2eme section*/
 
 .testimonial{
     text-align: center;
@@ -315,9 +306,6 @@ header>nav>ul>li>a:last-of-type:hover{
 
 
 
-/*3eme section*/
-
-
 .galery {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -331,7 +319,6 @@ header>nav>ul>li>a:last-of-type:hover{
 }
 
 
-/*footer*/
 
 
 
