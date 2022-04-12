@@ -1,3 +1,0 @@
-# Sunnyside
-# Sunny
-# Sunny
