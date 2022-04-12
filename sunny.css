@@ -67,7 +67,7 @@ h3 {
 }
 
 .header {
-    background: url(../Sunny/images/photos/image-header.jpg);
+    background: url(./images/photos/image-header.jpg);
     background-size: cover;
     background-position: center;
     padding: 2rem;
@@ -157,7 +157,7 @@ header>nav>ul>li>a:last-of-type:hover {
 
 
 .cerise {
-    background: url(../Sunny/images/photos/image-graphic-design.jpg);
+    background: url(./images/photos/image-graphic-design.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
@@ -169,7 +169,7 @@ header>nav>ul>li>a:last-of-type:hover {
 
 
 .orange {
-    background: url(../Sunny/images/photos/image-photography.jpg);
+    background: url(./images/photos/image-photography.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
